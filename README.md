@@ -30,6 +30,9 @@ The recording and playback functionality has been verified to work on Linux as w
      flutter run -d "<device name>"
    ```
 
+## Showcase
+https://github.com/user-attachments/assets/8cf456e2-25e3-4ea3-be28-9c93c1d796bb
+
 [android_sdk]: https://developer.android.com/tools/releases/platform-tools
 [flutter]: https://docs.flutter.dev/
 [whisper_kit]: https://pub.dev/packages/whisper_kit
